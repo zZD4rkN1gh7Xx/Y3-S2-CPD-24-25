@@ -1,0 +1,28 @@
+[Server] novonome has joined the room.
+[Server] alice has joined the room.
+alice: ola
+novonome: ola
+[Server] alice has left the room.
+novonome: ola
+[Server] alice has joined the room.
+[Server] alice has left the chat.
+[Server] alice has left the chat.
+alice: hi
+alice: hi @bot what is the capital of portugal
+[Bot]: Hi!\n\nThe capital of Portugal is Lisbon!
+hi @bot what is the capital of portugal
+novonome: @bot tell me a joke
+[Bot]: Here's one:\n\nWhy did the computer go to the doctor?\n\nBecause it had a virus!
+@bot tell me a joke
+alice: @bot what were the last questions done here?
+@bot what were the last questions done here?
+[Bot]: I'm happy to help!\n\nAccording to our conversation history, the last two questions asked here were:\n\n1. \
+[Server] Tom has joined the chat.
+[Server] Tom has joined the chat.
+[Server] Tom has joined the room.
+alice: hi
+Tom: hey
+Tom: hey
+alice: 
+[Server] Tom has left the chat.
+[Server] Tom has left the chat.

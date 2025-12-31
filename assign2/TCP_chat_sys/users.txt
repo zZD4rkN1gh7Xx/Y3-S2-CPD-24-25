@@ -1,0 +1,13 @@
+alice:6aYaYowddIFth9omvaoN4ZWe2Nz41ALUQ0xNKu0kD0U=:cfdP3Oib+rnb8abIIAwQ8w==
+bob:uGVc3UxXNTPB8Z/qf2iHt/dkU/JOXa3B21Hn7TFwKf8=:KZJ9efg4Tde+qx/6+B2mJQ==
+charlie:2S0Efui2RVLKSokgJJNIFAo3Hn0WNW6WE4HkVyGqKcY=:eNGzeelZCCuGjqX4pZO6EA==
+lucas:5UGgRdrGmARYqerR43AW4IkM81tmeLgY86xWHKtLfhc=:+JIG4jxKguh5Hc33Bdu+JQ==
+AI_Bot#general:jF/Xv+L/8NZ6F8bodVJebTkXHjFQDv0Ls1E68Jv7rp0=:HGRzZYAge7RgDWIjqS5SWQ==
+a:Q5B6GzulvX7FmMXZ/f+bASi7uzqUER/iezqPF5Dot5w=:Y+6oE/h0qp57HXSg/KKH7A==
+b:7i5i1GxT5+pl0IIIbTvF5qRNXrGdBB3FNKjVxfWzRfU=:IYOh/LtW0b2nEL06xW/AcA==
+AI_Bot#newroom:Xgb/c98yLY8hTnQ5CompsA9Ht0aSwLMkFpkrJ2hLorg=:5HlgKQY9YlTXCwLQfWGB4w==
+AI_Bot#newnew:UIQcUzXrjASEwgpXVDUwlJgM0hKwPBYcfmwjvd765j4=:aafUtA63aGZpfe3JvL65Xw==
+carlos:AxxFMCBz8ejZouDFFV3rRbMVr5EqeYRuj26me2O5tS8=:rCyXDaLHYCbHvUIaRRh4Qg==
+tom:z0RokknqpGy+2N9jQglOasnLVnDLUZRoZ8pTIrYdkWI=:fu6Wt2FxzfulBc5a3lXkKA==
+novonome:kDvwRXqeFOxrnF3NIgnGUnJTKyRxsVUaAX92vKO6Yzs=:cDWqUN54Gfy79B/TvkiW+w==
+Tom:7g8TVjG/qe+M89+xvez2P1ja2pyKUkqqsuKrPkCiMrg=:Kc9+7xfG6e991cjMzsO8SA==
